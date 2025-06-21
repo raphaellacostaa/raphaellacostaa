@@ -64,17 +64,27 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 
 ---
 
-### 🌐 Conecte-se comigo
 
-<div align="center">
-  <a href="mailto:raphaella.costa91@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+## 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.instagram.com/roxy.promo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/raphaellacosta91/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  <a href="mailto:raphaella.costa91@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/raphaellacosta91/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-<br clear="both" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/raphaellacostaa/raphaellacostaa/output/snake.svg" alt="Snake animation" />
+
+---
+
+<p align="center">✨ Feito com carinho, código e constelações por Raphaella Costa ✨</p>
