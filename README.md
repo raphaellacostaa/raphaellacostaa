@@ -13,15 +13,12 @@
   </p>
   
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
+</p>
+
 
 ---
 
----
 
 ### 🎓 Sobre mim
 
@@ -127,5 +124,4 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 <p align="center">
   💜 Feito por Raphaella Costa 💜
 </p>
-```
 
