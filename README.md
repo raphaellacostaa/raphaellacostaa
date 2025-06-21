@@ -68,9 +68,6 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 ## 🌐 Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.instagram.com/roxy.promo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
   <a href="mailto:raphaella.costa91@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -79,12 +76,5 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
   </a>
 </div>
 
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raphaellacostaa/raphaellacostaa/output/snake.svg" alt="Snake animation" />
-
----
 
 <p align="center">✨ Feito com carinho, código e constelações por Raphaella Costa ✨</p>
