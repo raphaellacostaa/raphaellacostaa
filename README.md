@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/raphaellacostaa" width="120" alt="Foto de Raphaella Costa" style="border-radius: 50%;" />
   <h1>Olá, eu sou a Raphaella Costa! 👋</h1>
   <p>UX/UI Designer em formação • Desenvolvedora Front-End • Criadora de Conteúdo</p>
   <p>🇧🇷 Do Brasil para o mundo 💜</p>
