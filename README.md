@@ -1,8 +1,25 @@
 <div align="center">
-  <h1>Olá, eu sou a Raphaella Costa! 👋</h1>
-  <p>UX/UI Designer em formação • Desenvolvedora Front-End • Criadora de Conteúdo</p>
-  <p>🇧🇷 Do Brasil para o mundo 💜</p>
+  <img src=https://media.licdn.com/dms/image/v2/D4D16AQEP_ONhjdMlNA/profile-displaybackgroundimage-shrink_350_1400/B4DZXIfahFHIAg-/0/1742825433863?e=1755734400&v=beta&t=ox3WcSbX-f8YkVuTf_V0lXqcp18Pw_udwV8ifudMwhA width="100%" alt="Banner Raphaella Costa"/>
 </div>
+  <h1 align="center">✨ Olá, seja bem-vindo! ✨</h1>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/raphaellacosta91" target="_blank">
+      <img src="https://img.shields.io/badge/-UX%2FUI%20Designer-7b2cbf?style=flat&logo=adobe-xd" alt="UX/UI Designer">
+    </a>
+    <a href="https://github.com/raphaellacostaa?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/-Front--End%20Developer-7b2cbf?style=flat&logo=javascript" alt="Front-End Developer">
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
+    </a>
+  </p>
+</div>
+
+---
 
 ---
 
@@ -16,65 +33,99 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
-
-| UX & Design                    | Desenvolvimento               | Estratégia & Conteúdo        |
-|-------------------------------|------------------------------|-----------------------------|
-| Figma • Prototipação • UX Writing | HTML • CSS • JavaScript        | Branding pessoal             |
-| Acessibilidade • Design System | Python • Java • Node.js       | Comunicação estratégica      |
-
----
-
-### 🌟 Projetos em destaque
-
-- 🎨 **Portfólio Pessoal** – Site lilás e clean com bio, projetos e formulário de contato  
-- 📱 **App de Streaming (Protótipo de alta fidelidade)** – Projeto acadêmico inspirado na Netflix  
-- 💾 **Locadora de Veículos** – Modelagem e scripts SQL para banco de dados relacional  
-- 💖 **roxy.promo** – Página no Instagram para mulheres, com foco em estética e conteúdo real
-
----
-
-### 📚 Em constante evolução
-
-- Acessibilidade digital  
-- Arquitetura da informação  
-- Estratégias de UX para conteúdo digital  
-- Integração entre design e front-end
-
----
+## 🛠 Stack Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaellacostaa&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellacostaa&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+
+### 👩‍💻 Desenvolvimento
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🎨 Design & UX
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-000000?style=for-the-badge&logo=accessibility&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### 📊 Ferramentas
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 </div>
 
 ---
 
-### 💻 Tecnologias que uso
+## 🌟 Destaques do Portfólio
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|------------|------|
+| **Portfólio Lilás** | Site pessoal minimalista | HTML, CSS, JS | [Ver projeto](https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa/index.html) |
+| **Streaming App** | Protótipo acadêmico | Figma, UX Research | [Ver projeto](https://www.figma.com/design/nQEKRibzhUQbTn10v4pJhK/Prot%C3%B3tipo-Streaming---Raphaella-Costa?node-id=143-191) |
+| **Locadora SQL** | Modelagem de banco de dados | SQL, MySQL | [Ver projeto](#) |
+| **roxy.promo** | Conteúdo para mulheres reais | Branding, Instagram | [@roxy.promo](https://instagram.com/roxy.promo) |
+
 </div>
 
 ---
 
+## 📈 GitHub Analytics
 
-## 🌐 Conecte-se comigo
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaellacostaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellacostaa&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=raphaellacostaa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+</div>
 
-<div align="left">
+---
+
+## 📚 Aprendizado Contínuo
+
+<div align="center">
+  
+```progress
+|---------------------|--------------------|
+| UX Research         | ■■■■■■■■□□ 80%     |
+| UI Design           | ■■■■■■□□□□ 60%     |
+| Front-End           | ■■■■■□□□□□ 50%     |
+| Acessibilidade      | ■■■■■■■□□□ 70%     |
+```
+
+</div>
+
+**Atualmente explorando:**
+- [ ] Design Systems
+- [ ] Microinterações
+- [ ] Arquitetura da Informação
+- [ ] UX Writing Avançado
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
   <a href="mailto:raphaella.costa91@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/raphaellacosta91/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
+---
 
-<p align="center">✨ Feito com carinho, código e constelações por Raphaella Costa ✨</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raphaellacostaa&label=Profile%20views&color=7b2cbf&style=flat" alt="raphaellacostaa" /> 
+</p>
+
+<p align="center">
+  💜 Feito por Raphaella Costa 💜
+</p>
+```
+
