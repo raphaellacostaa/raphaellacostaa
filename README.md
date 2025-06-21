@@ -1,6 +1,3 @@
-<div align="center">
-  <img src=https://media.licdn.com/dms/image/v2/D4D16AQEP_ONhjdMlNA/profile-displaybackgroundimage-shrink_350_1400/B4DZXIfahFHIAg-/0/1742825433863?e=1755734400&v=beta&t=ox3WcSbX-f8YkVuTf_V0lXqcp18Pw_udwV8ifudMwhA width="100%" alt="Banner Raphaella Costa"/>
-</div>
   <h1 align="center">✨ Olá, seja bem-vindo! ✨</h1>
   
   <p align="center">
@@ -12,13 +9,11 @@
     </a>
   </p>
   
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7B2CBF&width=800&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
-</p>
+
+
 
 
 ---
-
 
 ### 🎓 Sobre mim
 
@@ -124,4 +119,4 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 <p align="center">
   💜 Feito por Raphaella Costa 💜
 </p>
-
+```
