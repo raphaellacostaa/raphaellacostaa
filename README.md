@@ -13,8 +13,9 @@
   </p>
   
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&width=435&lines=Transformando+ideias+em+experiências;Design+centrado+no+usuário;Código+com+propósito" alt="Typing SVG" />
 </p>
+
 
 
 ---
