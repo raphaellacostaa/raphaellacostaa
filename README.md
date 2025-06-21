@@ -1,58 +1,50 @@
+<h2 align="left">Hi 👋! My name is Raphaella Costa and I'm a UX/UI designer in formação, front-end developer and content creator from Brazil 💜</h2>
+
+###
+
 <div align="center">
-  <img src="https://github.com/raphaellacostaa/raphaellacostaa/blob/main/banner-celestial.png" alt="Banner Celestial" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaellacostaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaellacostaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<h1 align="center">✨ Olá, sou a Raphaella Costa</h1>
-<p align="center">UX/UI Designer • Desenvolvimento Front‑end • Conteúdo feminino e maternidade</p>
+###
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Estrelas roxas" />
 
-## 💜 Sobre mim
-- Graduanda em **Análise e Desenvolvimento de Sistemas** e **Sistemas de Informação**  
-- Transição do back‑end para **UX/UI Design** com foco em **UX Writing**  
-- Produtora de conteúdo: maternidade, universo feminino e lifestyle no Instagram
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+</div>
 
-## 🛠 Tecnologias & Ferramentas
+###
 
-| UX & Design              | Desenvolvimento        | Outras Habilidades           |
-|--------------------------|------------------------|------------------------------|
-| Figma • Prototipação • UX Writing | HTML • CSS • JavaScript | Comunicação • Branding |
-| Design System • Acessibilidade | Python • Java • Node.js | Conteúdo • Tráfego Pago |
+<div align="left">
+  <a href="mailto:raphaella.costa91@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/raphaellacosta91/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+</div>
 
----
+###
 
-## 🌟 Projetos em destaque
+<br clear="both">
 
-- **Portfólio Pessoal** – Site elegante com suas cores e estilo limpo (HTML, CSS, JS)  
-- **App de Streaming (Protótipo de alta fidelidade)** – Experiência visual voltada para o usuário (Figma)  
-- **Locadora de Veículos** – Modelagem e scripts em MySQL  
-- **roxy.promo** – Branding e design para público jovem feminino (em construção)
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/raphaellacostaa/raphaellacostaa/output/snake.svg" alt="Snake animation" />
 
----
-
-## 📚 Em constante evolução
-- Acessibilidade digital  
-- Arquitetura da informação  
-- Conteúdo estratégico para UX  
-- Integração entre design e front‑end
-
----
-
-## 📌 Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/raphaellacosta91/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:raphaella.costa91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaellacostaa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellacostaa&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-<p align="center">Designed with 💜 and constellations ✨</p>
+###
