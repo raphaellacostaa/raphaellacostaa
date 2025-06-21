@@ -12,11 +12,7 @@
     </a>
   </p>
   
-  https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&width=435&lines=Transformando%20ideias%20em%20experiências;Design%20centrado%20no%20usuário;Código%20com%20propósito
-
-
-
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&pause=1000&color=7B2CBF&center=true&width=435&lines=Transformando%20ideias%20em%20experiências;Design%20centrado%20no%20usuário;Código%20com%20propósito)
 
 ---
 
