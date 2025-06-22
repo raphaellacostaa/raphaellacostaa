@@ -91,6 +91,23 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 
 </div>
 
+---
+
+## 🎓 Cursos Complementares
+
+- **Curso de Extensão – Design Centrado no Usuário**  
+  PUCRS – 10 horas – 2025  
+  Foco nos princípios de usabilidade, design centrado no usuário, acessibilidade e criação de interfaces intuitivas.
+
+- **Back-End: Minha Primeira API**  
+  PrograMaria – 2025  
+  Aprendizado prático sobre fundamentos de desenvolvimento back-end, criação e consumo de APIs, lógica de programação e organização de código.
+
+- **Front-End: Minha primeira página web!**  
+  PrograMaria – 2025
+
+
+
 **Atualmente explorando:**
 - [ ] Design Systems
 - [ ] Microinterações
