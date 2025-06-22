@@ -57,7 +57,7 @@ Estou em transição do back-end para o universo do **UX/UI Design**, focando em
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|------------|------|
-| **Portfólio Lilás** | Site pessoal minimalista | HTML, CSS, JS | [Ver projeto](https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa/index.html) |
+| **Portfólio** | Site pessoal minimalista | HTML, CSS, JS | [Ver projeto](https://raphaellacostaa.github.io/meu-portfolio-raphaella-costa/index.html) |
 | **Streaming App** | Protótipo acadêmico | Figma, UX Research | [Ver projeto](https://www.figma.com/design/nQEKRibzhUQbTn10v4pJhK/Prot%C3%B3tipo-Streaming---Raphaella-Costa?node-id=143-191) |
 | **Locadora SQL** | Modelagem de banco de dados | SQL, MySQL | [Ver projeto](#) |
 | **roxy.promo** | Conteúdo para mulheres reais | Branding, Instagram | [@roxy.promo](https://instagram.com/roxy.promo) |
